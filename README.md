@@ -23,21 +23,13 @@ Movielens
 
 ## Exploratory Data Analysis
 
-### 1. Distribution of User Ratings Count
-
-![Movielens_recommendation](Images/Distribution_of_User_Ratings_Count.PNG)
-
-We can see that most users rate very few movies, and few users rate many movies.
-
-This shows that the dataset has a lot of users with little interaction.
-
-### 2. Distribution of Movie Rating Counts
+### 1. Distribution of Movie Rating Counts
 
 ![Movielens_recommendation](Images/Distribution_of_Movie_Rating_Counts.PNG)
 
 From this plot, it is evident that, very many movies have few ratings while few movies have many ratings.
 
-### 3. Ratings Distribution
+### 2. Ratings Distribution
 
 ![Movielens_recommendation](Images/Ratings_Distribution.PNG)
 
@@ -45,19 +37,19 @@ Most movies recieve a rating of 4.0 followed by 3.0.
 
 It is possible that users are generous with their ratings, giving a 3 if they don't really like a movie, 4 if the movie was alright and 5 if they really enjoyed the movie.
 
-### 4. Top 10 Most Rated Movies
+### 3. Top 10 Most Rated Movies
 
 ![Movielens_recommendation](Images/Top_10_Most_Rated_Movies.PNG)
 
 This graph shows the top 10 most rated movies with Braveheart at the top.
 
-### 5. Movie Genre Frequency
+### 4. Movie Genre Frequency
 
 ![Movielens_recommendation](Images/movie_genre_frequency.PNG)
 
 Drama has the highest ratings followed by comedy while film-Noir has the least count of ratings.
 
-### 6. Average Rating per Genre
+### 5. Average Rating per Genre
 
 ![Movielens_recommendation](Images/Average_Rating_per_Genre.PNG)
 
