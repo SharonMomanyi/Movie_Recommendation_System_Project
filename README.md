@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# Movie_Lens_Recommendation_System
-=======
 # MOVIE RECOMMENDATION SYSTEM PROJECT
 
 ## Introduction
